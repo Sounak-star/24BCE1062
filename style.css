@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* HERO SECTION */
+#hero {
+    background-color: #222;
+    color: rgb(38, 221, 6);
+    padding: 40px;
+    text-align: center;
+}
+
+#hero span {
+    color: #21d7ef;
+}
+
+/* ABOUT SECTION */
+#about {
+    padding: 30px;
+    color: #5d0b0b;
+}
+
+/* SERVICES SECTION */
+#services {
+    background-color: #a4d60b;
+    padding: 30px;
+}
+
+/* CARD (BOX MODEL DEMO) */
+.card {
+    border: 2px solid #4605f8;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: rgb(245, 15, 172);
+}
+
+/* CONTACT SECTION */
+#contact {
+    background-color: #107d9e;
+    color: white;
+    padding: 20px;
+}
